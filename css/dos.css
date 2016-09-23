@@ -1,0 +1,26 @@
+/*font-family: 'Shadows Into Light', cursive;
+font-family: 'Indie Flower', cursive;*/
+
+
+#contenidos{
+	width:1000px;
+	height: auto;
+	margin: relative;
+	background: green;
+}
+body{
+	background-image: url(../img/logo.jpg);
+	background-repeat:no-repeat;
+	background-size: cover; 
+}
+h1{
+font-family: 'Shadows Into Light', cursive;
+margin-left: 10px;
+font-size: 60px
+text-align: center;	
+}
+h2{
+font-family: font-family: 'Indie Flower', cursive;
+margin-left: 10px;
+font-size: 60px
+text-align: left;
